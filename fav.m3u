@@ -7,7 +7,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.
 #EXTINF:-1 ,Medi1 TV
 http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 ,Télé Maroc
-https://playback.akamaized.net/streams/27130247_8196478_lsimxaorvwy05dlulwf_1/master.m3u8?dw=80&hdnts=exp=1648501749~acl=/streams/27130247_8196478_lsimxaorvwy05dlulwf_1/master.m3u8*~hmac=34c9e4fac73ae738f9b883474dbc1f8e151f81dd23adcebeef11f9cd6801ac62
+https://playback.akamaized.net/streams/27130247_8196478_lsimxaorvwy05dlulwf_1/master.m3u8?dw=80&hdnts=exp=1648501982~acl=/streams/27130247_8196478_lsimxaorvwy05dlulwf_1/master.m3u8*~hmac=0bfae81ce3209ac8cb047d84d53c072999eda4707a426f1f79466cdbf79b321c
 #EXTINF:-1 ,MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 ,MBC Drama
