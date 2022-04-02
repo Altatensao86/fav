@@ -1,3 +1,2 @@
 # fav
-a list of favorites tv
-little is better
+a list of favorites tv channels
